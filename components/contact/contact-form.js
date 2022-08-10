@@ -79,7 +79,7 @@ export default function ContactForm() {
 
   return (
     <section className={classes.contact}>
-      <h1>Hoe can I help you?</h1>
+      <h1>How can I help you?</h1>
       <form onSubmit={sendMessageHandler} className={classes.form}>
         <div>
           <div className={classes.controle}>
